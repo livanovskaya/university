@@ -1,2 +1,2 @@
-# university
-My university projects done during me bachelor
+# University
+Hello! Here you can view my university projects done during my bachelor
