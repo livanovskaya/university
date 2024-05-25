@@ -3,5 +3,8 @@
   
 *Original database:* [ESS 9 round](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/ESS7e02_1.sav.zip)  
 *Part 1:* [Creation of dataset. Generation of missings](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%201.%20Creation%20of%20dataset.%20Generation%20of%20missing%20data.ipynb)   
-*Part 2:* HistGragientBoostingClassifier model with sample 3 000 
+*Part 2:* [HistGragientBoostingClassifier model with sample 3 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%202.%20HistGradientBoostingClassifier_3k_sample.ipynb)  
+*Part 3:* [HistGragientBoostingClassifier model with sample 15 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%203.%20HistGragientBoostingClassifier_15k_sample.ipynb)  
+*Part 4:* [HistGragientBoostingClassifier model with sample 30 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%204.%20HistGradientBoostingClassifier_30k_sample.ipynb)  
+*Part 5:* [All models with sample 60 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%205.%20All_models_with_60k_sample.ipynb)  
 
