@@ -7,4 +7,5 @@
 *Part 3:* [HistGragientBoostingClassifier model with sample 15 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%203.%20HistGragientBoostingClassifier_15k_sample.ipynb)  
 *Part 4:* [HistGragientBoostingClassifier model with sample 30 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%204.%20HistGradientBoostingClassifier_30k_sample.ipynb)  
 *Part 5:* [All models with sample 60 000](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/Part%205.%20All_models_with_60k_sample.ipynb)  
+*Best Model:* [model.pkl](https://github.com/livanovskaya/university/blob/main/Bachelor%20Thesis/model.pkl)
 
